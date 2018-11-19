@@ -5,6 +5,7 @@ EX:
 #DOC VAR [VARIABLE HERE] TYP [VAR TYPE HERE] PUR [PURPOSE OF VARIABLE], into a doc table.
 
 EX: 
+
 |-------------------|--------------|----------------------------------|
 |    ~Variables~    |    ~Type~    |    ~Purpose~                     |
 |-------------------|--------------|----------------------------------|
