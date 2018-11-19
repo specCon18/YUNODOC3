@@ -2,10 +2,12 @@
 YUNODOC3 is a program to help developers doccument less by Turning DOC comments 
 
 
-EX:
-#DOC VAR [VARIABLE HERE] TYP [VAR TYPE HERE] PUR [PURPOSE OF VARIABLE], into a doc table.
+# Examples
 
-EX: 
+<pre>
+  #DOC VAR [VARIABLE HERE] TYP [VAR TYPE HERE] PUR [PURPOSE OF VARIABLE], into a doc table.
+</pre> 
+
 <pre>
 |-------------------|--------------|----------------------------------|
 
