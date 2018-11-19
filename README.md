@@ -9,8 +9,8 @@ A comment like this is written in the users code:
 #DOC VAR [VARIABLE HERE] TYP [VAR TYPE HERE] PUR [PURPOSE OF VARIABLE], into a doc table.
 
 
-<pre>
 When yunodoc3 is ran against the file it converts that comment to this:
+<pre>
 |-------------------|--------------|----------------------------------|
 |    ~Variables~    |    ~Type~    |    ~Purpose~                     |
 |-------------------|--------------|----------------------------------|
