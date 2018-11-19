@@ -1,15 +1,15 @@
 # YUNODOC3
-YUNODOC3 is a program to help developers doccument less by Turning DOC comments 
+YUNODOC3 is a program to help developers doccument less by turning DOC comments 
 
 
 ## Examples
-** comment like this is written in the users code:
+** comment like this is written in the users code: **
 
 
 #DOC VAR [VARIABLE HERE] TYP [VAR TYPE HERE] PUR [PURPOSE OF VARIABLE], into a doc table.
 
 
-** When yunodoc3 is ran against the file it converts that comment to this:
+** When yunodoc3 is ran against the file it converts that comment to this: **
 <pre>
 |-------------------|--------------|----------------------------------|
 |    ~Variables~    |    ~Type~    |    ~Purpose~                     |
