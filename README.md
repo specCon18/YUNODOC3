@@ -5,7 +5,7 @@ EX:
 #DOC VAR [VARIABLE HERE] TYP [VAR TYPE HERE] PUR [PURPOSE OF VARIABLE], into a doc table.
 
 EX: 
-
+<pre>
 |-------------------|--------------|----------------------------------|
 
 |    ~Variables~    |    ~Type~    |    ~Purpose~                     |
@@ -15,5 +15,5 @@ EX:
 |    mFltTemp       |    float     |    a temp variable               |
 
 |-------------------|--------------|----------------------------------|
-
+</pre>
 Doccumentation and usage instrctions are located at: https://snowkatdevelopmentstudios.site/software/yunodoc3/docs/
