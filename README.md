@@ -7,9 +7,13 @@ EX:
 EX: 
 
 |-------------------|--------------|----------------------------------|
+
 |    ~Variables~    |    ~Type~    |    ~Purpose~                     |
+
 |-------------------|--------------|----------------------------------|
+
 |    mFltTemp       |    float     |    a temp variable               |
+
 |-------------------|--------------|----------------------------------|
 
 Doccumentation and usage instrctions are located at: https://snowkatdevelopmentstudios.site/software/yunodoc3/docs/
