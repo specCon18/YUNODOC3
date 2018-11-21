@@ -13,6 +13,8 @@ YUNODOC3 is a program to help developers doccument less by turning DOC comments 
 
 **When yunodoc3 is ran against the source it converts those comments to a table like this:**
 <pre>
+|---------------------------------------------------------------------|
+| VARIABLES |                                                         |
 |-------------------|--------------|----------------------------------|
 |    ~Variables~    |    ~Type~    |    ~Purpose~                     |
 |-------------------|--------------|----------------------------------|
@@ -32,6 +34,15 @@ YUNODOC3 is a program to help developers doccument less by turning DOC comments 
 
 **When yunodoc3 is ran against the source it converts those comments to a table like this:**
 <pre>
+|--------------------------------------------------------------------------|
+| VARIABLES |                                                              |
+|-------------------|--------------|---------------------------------------|
+|    ~Variables~    |    ~Type~    |    ~Purpose~                          |
+|-------------------|--------------|---------------------------------------|
+|    mFltTemp       |    float     |    a temp float variable              |
+|    mIntTemp       |   intiger    |    a temp int variable                |
+|--------------------------------------------------------------------------|
+|  NOTES |                                                                 |
 |--------------------------------------------------------------------------|
 |    File           |  Line  |    NOTE      |                              |
 |--------------------------------------------------------------------------|
