@@ -7,6 +7,8 @@ YUNODOC3 is a program to help developers doccument less by turning DOC comments 
 
 
 #DOC VAR mFltTemp TYP float PUR a temp float variable
+
+
 #DOC VAR mIntTemp TYP integer PUR another temp int variable
 
 **When yunodoc3 is ran against the source it converts that comment to a table like this:**
