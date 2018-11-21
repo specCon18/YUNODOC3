@@ -3,18 +3,19 @@ YUNODOC3 is a program to help developers doccument less by turning DOC comments 
 
 
 ## Examples
-**Comment like this is written in the users code:**
+**Comments like these are written into the developer's code:**
 
 
-#DOC VAR [VARIABLE HERE] TYP [VAR TYPE HERE] PUR [PURPOSE OF VARIABLE], into a doc table.
+#DOC VAR mFltTemp TYP float PUR a temp float variable
+#DOC VAR mIntTemp TYP integer PUR another temp int variable
 
-
-**When yunodoc3 is ran against the file it converts that comment to this:**
+**When yunodoc3 is ran against the source it converts that comment to a table like this:**
 <pre>
 |-------------------|--------------|----------------------------------|
 |    ~Variables~    |    ~Type~    |    ~Purpose~                     |
 |-------------------|--------------|----------------------------------|
-|    mFltTemp       |    float     |    a temp variable               |
+|    mFltTemp       |    float     |    a temp float variable         |
+|    mIntTemp       |   intiger    |    a temp int variable           |
 |-------------------|--------------|----------------------------------| 
 </pre>
 
