@@ -2,7 +2,7 @@
 YUNODOC3 is a program to help developers doccument less by turning DOC comments into tables witch are easy to reference.
 
 
-## Examples
+## Example
 **Comments like these are written into the developer's code:**
 
 
